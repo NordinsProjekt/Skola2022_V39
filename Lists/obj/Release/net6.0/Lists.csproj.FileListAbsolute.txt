@@ -1,0 +1,15 @@
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\bin\Release\net6.0\Lists.deps.json
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\bin\Release\net6.0\Lists.dll
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\bin\Release\net6.0\Lists.pdb
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\obj\Release\net6.0\Lists.csproj.AssemblyReference.cache
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\obj\Release\net6.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\obj\Release\net6.0\Lists.AssemblyInfoInputs.cache
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\obj\Release\net6.0\Lists.AssemblyInfo.cs
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\obj\Release\net6.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\obj\Release\net6.0\Lists.dll
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\obj\Release\net6.0\refint\Lists.dll
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\obj\Release\net6.0\Lists.pdb
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\obj\Release\net6.0\ref\Lists.dll
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\bin\Release\net6.0\commands.txt
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\bin\Release\net6.0\PersonCSV.csv
+C:\Users\belfe\source\repos\OvningsProjekt\Lists\Lists\bin\Release\net6.0\phones.txt

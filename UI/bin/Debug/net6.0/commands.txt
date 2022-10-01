@@ -1,0 +1,6 @@
+﻿find(firstname)
+Kenzie
+find(town)
+St. Louis
+find(firstname,town)
+Kenzie,St. Louis

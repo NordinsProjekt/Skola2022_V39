@@ -1,0 +1,4 @@
+﻿Markus Nordin;Uddevalla;0522 111 111
+Kireto;Varna;052 23 45 67
+Link;Hyrule;111 111 111
+Test;Uddevalla; 22222222;
